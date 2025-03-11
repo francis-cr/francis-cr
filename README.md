@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Francis! <br/><a href="https://github.com/Francis-cr"></a> <a Data analyst > Data analyst Professional </h1>
+
+<h2>👨‍💻 Data analyst project:</h2>
 
 
-**francis-cr/francis-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+<!--
+*joshmadakor1/joshmadakor1* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
